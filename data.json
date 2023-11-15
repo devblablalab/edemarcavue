@@ -1,0 +1,687 @@
+[
+    {
+      "brand": "Louis Vuitton",
+      "price": "R$ 4.200,00",
+      "infos": "100% algodão",
+      "link": "https://br.louisvuitton.com/por-br/produtos/camiseta-inside-out-nvprod1510035v/1A5W66"
+    },
+    {
+      "brand": "Reserva",
+      "price": "R$ 119,00",
+      "infos": "100% algodão",
+      "link": "https://www.usereserva.com/camiseta-basica-brasa-pica-pau-bordado0034603/p?idsku=63260&utm_campaign=shopping&gclid=CjwKCAjw7oeqBhBwEiwALyHLMwahspG_o97WRZgd0iXwsXMyphvIKSpU1jy0s6WgLJzz9VN2U6PINxoC1gsQAvD_BwE"
+    },
+    {
+      "brand": "Gucci",
+      "price": "R$ 2.009,80",
+      "infos": "100% algodão (380 euros)",
+      "link": "https://www.gucci.com/pt/en_gb/pr/men/ready-to-wear-for-men/t-shirts-and-polo-for-men/cotton-t-shirt-with-double-g-p-700131XJEJF9088"
+    },
+    {
+      "brand": "Nowdays",
+      "price": "R$ 135,15",
+      "infos": "100% fibra natural (só tem moletinho/cropped)",
+      "link": "https://nowdays.com.br/collections/clothing/products/nowdays-club-cropped"
+    },
+    {
+      "brand": "Bolovo",
+      "price": "R$ 189,00",
+      "infos": "100% algodão fio .40",
+      "link": "https://www.bolovo.com.br/produto/camiseta-basica-bolovo-branca-camiseta-basica-bolovo-branca-1163"
+    },
+    {
+      "brand": "Adidas",
+      "price": "R$ 89,99",
+      "infos": "100% algodão (better cotton)",
+      "link": "https://www.adidas.com.br/camiseta-trefoil-essentials/IA4872.html"
+    },
+    {
+      "brand": "Nike",
+      "price": "R$ 189,99",
+      "infos": "100% algodão orgânico",
+      "link": "https://www.nike.com.br/camiseta-nike-sportswear-feminina-026634.html?cor=51"
+    },
+    {
+      "brand": "Under Armour",
+      "infos": "nao achei de algodao"
+    },
+    {
+      "brand": "Carnan",
+      "price": "R$ 259,00",
+      "infos": "50% algodão 50% poliéster",
+      "link": "https://www.carnan.com.br/products/heavy-t-shirt-embroided-logo-white?_pos=5&_sid=134fdf825&_ss=r"
+    },
+    {
+      "brand": "Birden",
+      "price": "R$ 136,10",
+      "infos": "100% algodão",
+      "link": "https://www.birden.com.br/p/camiseta-icon-white#s7936"
+    },
+    {
+      "brand": "Polo Wear",
+      "price": "R$ 49,99",
+      "infos": "100% algodão",
+      "link": "https://www.polowear.com.br/camiseta-masculina-bordado-areia-polo-wear-branco-012004070221-001/p"
+    },
+    {
+      "brand": "Lacoste",
+      "price": "R$ 349,00",
+      "infos": "100% algodão",
+      "link": "https://www.lacoste.com/br/lacoste/feminino/vestu%C3%A1rio/camisetas/camiseta-feminina-loose-fit-em-algod%C3%A3o-com-decote-careca/TF1423-23.html?color=001"
+    },
+    {
+      "brand": "Puma",
+      "price": "R$ 199,90",
+      "infos": "pelo menos 20% algodão reciclado",
+      "link": "https://br.puma.com/camiseta-better-classics-masculina-621315-02.html?_sgm_campaign=fcs_a342d791da000&_sgm_source=621315_02%7Cproduct&_sgm_action=search&_sgm_term=camiseta+branca&_sgm_pinned=false"
+    },
+    {
+      "brand": "C&A"
+    },
+    {
+      "brand": "Levis's",
+      "price": "R$ 119,92",
+      "infos": "100% algodão",
+      "link": "https://www.levi.com.br/camiseta-levis-relaxed-fit-logo-lb00250095009/p"
+    },
+    {
+      "brand": "Cosmo Rio",
+      "price": "R$ 208,00",
+      "infos": "100% algodão (não é o logo)",
+      "link": "https://www.cosmo-rio.com/collections/camisetas/products/camiseta-cosmo-fluor"
+    },
+    {
+      "brand": "Schutz"
+    },
+    {
+      "brand": "Dior",
+      "price": "R$ 3.156,50",
+      "infos": "100% algodão (600 euros)",
+      "link": "https://www.dior.com/en_pt/fashion/products/943J605A0554_C080-cd-icon-relaxed-fit-t-shirt-white-cotton-jersey"
+    },
+    {
+      "brand": "Versace",
+      "price": "R$ 4.300,00",
+      "infos": "100% algodão",
+      "link": "https://www.versace.com/br/en/men/clothing/t-shirts-polos/embroidered-logo-t-shirt/1011694-1A08584_1W000.html?dwvar_1011694-1A08584__1W000_color=1W000"
+    },
+    {
+      "brand": "Prada",
+      "price": "R$ 5.300,00",
+      "infos": "100% algodão",
+      "link": "https://www.prada.com/br/pt/p/camiseta-em-algodao-com-elastano/UJN843_12TQ_F0009_S_231"
+    },
+    {
+      "brand": "Hering",
+      "price": "R$ 79,99",
+      "infos": "100% algodão",
+      "link": "https://www.hering.com.br/camiseta-basica-masculina-super-cotton-0227n0a00s/p"
+    },
+    {
+      "brand": "Balenciaga",
+      "price": "n tem (logo atras tb)",
+      "infos": "100% algodão",
+      "link": "https://www.balenciaga.com/en-en/logo-t-shirt-medium-fit-white-612966TIVG59040.html"
+    },
+    {
+      "brand": "Off-White",
+      "price": "R$ 1.838,76",
+      "infos": "100% algodão",
+      "link": "https://www.off---white.com/en-pt/shopping/off-white-big-bookish-skate-s-s-tee-20191132"
+    },
+    {
+      "brand": "Miu Miu",
+      "price": "R$ 7.700,00",
+      "infos": "100% algodão",
+      "link": "https://www.miumiu.com/br/pt/p/embroidered-cotton-t-shirt/MJN383_12IO_F0QMM_S_231?utm_campaign=GoogleShopping_BR&utm_medium=CPC&utm_source=Google&utm_content=PMax&s_kwcid=AL!8549!3!!!!x!!&gad=1&gclid=CjwKCAjwv-2pBhB-EiwAtsQZFIbcT6oeNps57A5Uygi-P0HSxIthXkDM14G8dO2w8ruREgZgzj65ERoCMBEQAvD_BwE&gclsrc=aw.ds"
+    },
+    {
+      "brand": "Ralph Lauren",
+      "price": "R$ 430,00",
+      "infos": "100% algodão",
+      "link": "https://www.ralphlauren.global/br/en/custom-slim-fit-soft-cotton-t-shirt-471117.html?dwvar471117_colorname=White&cgid=men-clothing-t-shirts&webcat=men%2Fclothing%2Fmen%20clothing%20t%20shirts"
+    },
+    {
+      "brand": "Valentino"
+    },
+    {
+      "brand": "Burberry",
+      "price": "R$ 3.050,00",
+      "infos": "100% algodão",
+      "link": "https://www.farfetch.com/br/shopping/men/burberry-logo-print-cotton-t-shirt-item-18455072.aspx?storeid=12273"
+    },
+    {
+      "brand": "Diesel",
+      "price": "R$ 595,00",
+      "infos": "100% algodão",
+      "link": "https://br.diesel.com/camiseta-diesel-t-just-microdiv-a064180hfax100/p"
+    },
+    {
+      "brand": "Jordan***",
+      "price": "R$ 139,99",
+      "infos": "100% algodão",
+      "link": "https://www.nike.com.br/camiseta-jordan-jumpman-masculina-026344.html?cor=51"
+    },
+    {
+      "brand": "Tommy Hilfiger",
+      "price": "R$ 199,00",
+      "infos": "100% algodão",
+      "link": "https://br.tommy.com/camiseta-classica-gola-c-thmw0mw33407_thybr/p"
+    },
+    {
+      "brand": "Oakley",
+      "price": "R$ 129,00",
+      "infos": "100% algodão",
+      "link": "https://www.oakley.com/pt-br/product/457292BR?variant=190645581375&_gl=1*1hl2tp7*_up*MQ..&gclid=CjwKCAjw7oeqBhBwEiwALyHLM-mM68UG3ACgj5Lv2zVs_-xFD0QFPjAtTJxYyIkXXxCl5QWL_7fUeRoCTcoQAvD_BwE&gclsrc=aw.ds"
+    },
+    {
+      "brand": "John John",
+      "price": "R$ 138,00",
+      "infos": "100% algodão",
+      "link": "https://www.johnjohndenim.com.br/camiseta-john-john-logo-branca-masculina-branco-42-54-2243/p?skuId=4237"
+    },
+    {
+      "brand": "Mormaii",
+      "price": "R$ 89,00",
+      "infos": "100% algodão (dem um desenhos a mais)",
+      "link": "https://www.mormaiishop.com.br/camiseta-malha-mormaii-swim-31312250/p"
+    },
+    {
+      "brand": "Billabong",
+      "price": "R$ 109,90",
+      "infos": "100% algodão (imagino)",
+      "link": "https://www.billabong.com.br/camiseta-manga-curta-mid-icon-billabong-b471a0763-p1860359?v=1860360"
+    },
+    {
+      "brand": "Hurley",
+      "price": "R$ 119,00",
+      "infos": "100% algodão",
+      "link": "https://hurley.com.br/products/camiseta-hurley-mini-icon-branca-3?_pos=4&_fid=d9075942d&_ss=c"
+    },
+    {
+      "brand": "Quicksilver",
+      "price": "R$ 109,90",
+      "infos": "100% algodão (imagino)",
+      "link": "https://www.quiksilver.com.br/camiseta-manga-curta-everyday-quiksilver-q471a0489-p1856740?v=1856742"
+    },
+    {
+      "brand": "Reserva",
+      "price": "R$ 119,00",
+      "infos": "100% algodão",
+      "link": "https://www.usereserva.com/camiseta-basica-brasa-pica-pau-bordado0034603/p?skuId=63259"
+    },
+    {
+      "brand": "Volcom",
+      "price": "R$ 124,30",
+      "infos": "100% algodão",
+      "link": "https://www.volcom.com/collections/mens-clothing-t-shirts-tanks/products/crisp-stone-sst-white-4?variant=40344128880707"
+    },
+    {
+      "brand": "Chanel",
+      "price": "n achei venda"
+    },
+    {
+      "brand": "Patagonia",
+      "price": "R$ 223,75",
+      "infos": "50% algodão 50% poliester - ambos reciclados (tem um logo grande atras tb)",
+      "link": "https://www.patagonia.com/product/mens-p-6-logo-responsibili-tee/38504.html?dwvar_38504_color=WHI&cgid=mens"
+    },
+    {
+      "brand": "Everlast"
+    },
+    {
+      "brand": "Umbro"
+    },
+    {
+      "brand": "Farm",
+      "price": "R$ 149,00",
+      "infos": "indefinido (não tem logo, só é branca)",
+      "link": "https://www.farmrio.com.br/t-shirt-basica-off-white-320683-0024/p"
+    },
+    {
+      "brand": "Zara",
+      "price": "R$ 99,00",
+      "infos": "algodão com elasticidade (não tem logo, só é branca)",
+      "link": "https://www.zara.com/br/pt/camiseta-basica-slim-fit-p05584461.html?v1=309507413&v2=2129576"
+    },
+    {
+      "brand": "Champion",
+      "price": "R$ 79,90",
+      "infos": "algodão",
+      "link": "https://www.championbrasil.com/camiseta-champion-masculina-logo-abstract-tecido-fino-gt23b-586vja-362/p?skuId=3854"
+    },
+    {
+      "brand": "New Balance",
+      "price": "R$ 129,99",
+      "infos": "algodão",
+      "link": "https://www.newbalance.com.br/camiseta-essentials-basic-masculina-1115945/p"
+    },
+    {
+      "brand": "Calvin Klein",
+      "price": "R$ 279,00",
+      "infos": "100% algodão",
+      "link": "https://www.calvinklein.com.br/camiseta-masculina-logo-retangulo-calvin-klein_branco_cm3pw01tc133_0900/p"
+    },
+    {
+      "brand": "Dudalina",
+      "price": "R$ 259,90",
+      "infos": "malha",
+      "link": "https://www.dudalina.com.br/camiseta-chevron-dudalina-masculina-08-77-1570-p2112874?pp=/44.684/"
+    },
+    {
+      "brand": "Osklen",
+      "price": "R$ 347,00",
+      "infos": "67% algodao 33% poliester (ela é um pouco diferente)",
+      "link": "https://www.osklen.com.br/produto/t-shirt-recorte-yogue-areia-69933-72"
+    },
+    {
+      "brand": "Balmain",
+      "price": "R$ 2.231,23",
+      "infos": "100% algodão",
+      "link": "https://us.balmain.com/en/p/eco-designed-cotton-t-shirt-with-small-flocked-balmain-logo-YF1EF010BB01GAB.html"
+    },
+    {
+      "brand": "Aéropostale",
+      "price": "R$ 159,90",
+      "infos": "100% algodão",
+      "link": "https://www.aeropostale.com.br/camiseta-manga-curta-masculino-aeropostale-8770198-1/p"
+    },
+    {
+      "brand": "Hugo BOSS",
+      "price": "R$ 386,54",
+      "infos": "100% algodão",
+      "link": "https://www.hugoboss.com/us/relaxed-fit-t-shirt-in-cotton-with-hd-logo-print/hbna50499229_100.html"
+    },
+    {
+      "brand": "Converse",
+      "price": "R$ 129,90",
+      "infos": "100% algodão",
+      "link": "https://converse.com.br/camiseta-embroidered-star-chevron-di00820003-branco"
+    },
+    {
+      "brand": "Colcci",
+      "price": "R$ 224,42",
+      "infos": "100% algodão",
+      "link": "https://www.colcci.com.br/camiseta-manga-curta-350110977-p1616321?v=1616328"
+    },
+    {
+      "brand": "The North Face",
+      "price": "R$ 229,00",
+      "infos": "n é algodão",
+      "link": "https://www.thenorthface.com.br/camiseta-hyper-tee-crew-masculina-branca-a001nfn4/p"
+    },
+    {
+      "brand": "Reebok",
+      "price": "R$ 139,99",
+      "infos": "100% algodão",
+      "link": "https://www.reebok.com.br/camiseta-reebok-big-logo-linear-masculina-cl0037nmts/p?skuId=10947"
+    },
+    {
+      "brand": "Bo.Bô",
+      "price": "R$ 358,00",
+      "infos": "malha (parece ter um logo pequeno atras, será???)",
+      "link": "https://www.bobo.com.br/camiseta-special-white-bo-bo-feminino-11-02-1708-p2100004?pp=/44.573/"
+    },
+    {
+      "brand": "Maria Filó",
+      "price": "R$ 399,00",
+      "infos": "100% Viscose (não tem camisa branca, nem com logo, esse é o mais parecido)",
+      "link": "https://www.mariafilo.com.br/camiseta-ggt-sal-15-18498-04123-86985/p"
+    },
+    {
+      "brand": "Lança Perfume",
+      "price": "R$ 153,00",
+      "infos": "100% algodão",
+      "link": "https://www.lancaperfume.com.br/t-shirt-manga-curta-estampa-local-502ts003721/p?skuId=229422"
+    },
+    {
+      "brand": "Cavalera",
+      "price": "R$ 159,00",
+      "infos": "n fala",
+      "link": "https://www.cavalera.com.br/t-shirt-cavalera-comfort-aguia-mid-01-24-2257-p92592?pp=/44.573/"
+    },
+    {
+      "brand": "GAP",
+      "price": "R$ 118,93",
+      "infos": "100% algodão",
+      "link": "https://www.gap.com/browse/product.do?pid=797924022&cid=5225&pcid=5225&vid=1&nav=meganav%3AMen%3ACategories%3AT-Shirts&cpos=50&cexp=2859&kcid=CategoryIDs%3D5225&ctype=Listing&cpid=res23110115626621825912325#pdp-page-content"
+    },
+    {
+      "brand": "Guess",
+      "price": "R$ 179,00",
+      "infos": "100% algodão",
+      "link": "https://www.guessbrasil.com.br/t-shirt-guess-triang-original-pq-m223rtskp40k-p1069545?pp=/44.573/"
+    },
+    {
+      "brand": "Hollister",
+      "price": "R$ 87,97",
+      "infos": "n fala",
+      "link": "https://www.hollisterco.com/shop/wd/p/logo-crew-t-shirt-53833331?categoryId=16398&faceout=prod&seq=03"
+    },
+    {
+      "brand": "Banana Republic",
+      "price": "R$ 157,21",
+      "infos": "só camisa branca",
+      "link": "https://bananarepublic.gap.com/browse/product.do?pid=266422002&cid=80117&pcid=80117&vid=1&nav=meganav%3AMen%3AMen%27s%20Clothing%3AT-Shirts&cpos=2&cexp=2252&kcid=CategoryIDs%3D80117&cvar=17252&ctype=Listing&cpid=res23110308482746902612385#pdp-page-content"
+    },
+    {
+      "brand": "Armani",
+      "price": "R$ 2.900,00",
+      "infos": "100% algodão",
+      "link": "https://www.armani.com.br/giorgio-armani/masculino/roupas/camisetas-e-polos/camiseta-de-algodao-com-logo-em-relevo?productId=4671&skuId=30793"
+    },
+    {
+      "brand": "Asics",
+      "infos": "achei nnehuma"
+    },
+    {
+      "brand": "Approve",
+      "price": "R$ 129,59",
+      "infos": "100% algodão",
+      "link": "https://www.justapprove.com.br/produto/camiseta-no-sew-approve-big-logo-branco-branco-73516"
+    },
+    {
+      "brand": "Vans",
+      "price": "R$ 129,99",
+      "infos": "100% algodão",
+      "link": "https://www.vans.com.br/camiseta-core-basics-white-black/p/4701600530004U?gclid=CjwKCAjw7oeqBhBwEiwALyHLM0azkDkxU6chHkispQooo5-74joWdHwCjRIKDNKEeb229Ft1gv9LWxoCVY4QAvD_BwE"
+    },
+    {
+      "brand": "Rip Curl",
+      "price": "R$ 129,90",
+      "infos": "100% algodão",
+      "link": "https://ripcurl.com.br/camiseta-rip-curl-new-brand-icon-tee"
+    },
+    {
+      "brand": "Ambush",
+      "price": "R$ 1.957,30",
+      "infos": "100% algodão",
+      "link": "https://www.ambushdesign.com/en-pt/shopping/t-shirts-tripack-19429267"
+    },
+    {
+      "brand": "Austral",
+      "price": "R$ 248,00",
+      "infos": "100% algodão (tem um logo pequeno)",
+      "link": "https://www.austral.com.br/camiseta-pima-new-branco-360310-c01/p"
+    },
+    {
+      "brand": "Dane-se",
+      "price": "R$ 168,00",
+      "infos": "100% algodão",
+      "link": "https://www.dane-se.com/produto/camiseta-dane-se-18"
+    },
+    {
+      "brand": "Aramis",
+      "price": "R$ 269,00",
+      "infos": "100% algodão",
+      "link": "https://www.aramis.com.br/camiseta-gola-careca-de-algodao-pima-branco-cs-01-1515-001/p"
+    },
+    {
+      "brand": "Dolce & Gabbana",
+      "price": "R$ 2.358,91",
+      "infos": "100% algodão",
+      "link": "https://www.dolcegabbana.com/en-it/fashion/men/clothing/t-shirts-and-polos/cotton-round-neck-t-shirt-with-patch-white-G8QI4TFU7EQW0800.html"
+    },
+    {
+      "brand": "Ecko",
+      "price": "R$ 58,99",
+      "infos": "100% algodão",
+      "link": "https://www.eckoshop.com.br/camiseta-ecko-plus-size-estampada-branca-off-eckcamm0yk041/p"
+    },
+    {
+      "brand": "Fila",
+      "price": "R$ 139,90",
+      "infos": "100% algodão",
+      "link": "https://www.fila.com.br/camiseta-fila-letter-premium-ii-masculina-1097901/p"
+    },
+    {
+      "brand": "Intimissimi",
+      "price": "R$ 129,00",
+      "infos": "100% algodão",
+      "link": "https://www.intimissimi.com.br/camiseta-em-algodao-slub-branco-cmu252-001/p"
+    },
+    {
+      "brand": "Pool",
+      "infos": "n achei"
+    },
+    {
+      "brand": "Insider",
+      "price": "R$ 146,67",
+      "infos": "n fala",
+      "link": "https://www.insiderstore.com.br/products/kit-3-tech-t-shirt?_pos=3&_fid=aa3e2453e&_ss=c"
+    },
+    {
+      "brand": "Malwee",
+      "price": "R$ 79,90",
+      "infos": "85 % ALGODAO NO MINIMO",
+      "link": "https://www.malwee.com.br/camiseta-basica-masculina-com-bordado-em-meia-malha-botone-100010664400001/p"
+    },
+    {
+      "brand": "Hermoso (Compadre)",
+      "price": "R$ 99,00",
+      "infos": "100% algodão (logo no canto da parte de baixo)",
+      "link": "https://www.hermoso.com.br/camiseta-basica-branca-gola-canoa105178/p"
+    },
+    {
+      "brand": "Hill Jack",
+      "price": "R$ 69,90",
+      "infos": "100% algodão",
+      "link": "https://hilljack.com.br/camiseta-basica-branca"
+    },
+    {
+      "brand": "Pornograffiti",
+      "infos": "so com desenhos"
+    },
+    {
+      "brand": "Hermes",
+      "price": "R$ 3.150,00",
+      "infos": "100% algodão (só com bolso)",
+      "link": "https://www.hermes.com/br/pt/product/camiseta-com-bordado-h-H072025HA903XL/"
+    },
+    {
+      "brand": "Yves Saint Laurent",
+      "price": "n achei valor",
+      "infos": "(regata)",
+      "link": "https://www.ysl.com/en-en/shirts-and-blouses/tank-top-in-silk-satin-766539Y6E179601.html"
+    },
+    {
+      "brand": "Jacquemus",
+      "price": "R$ 629,46",
+      "infos": "100% algodão (é regata, outra opcao é longa)",
+      "link": "https://www.jacquemus.com/en_fr/le-debardeur-caraco/236JS171-2314-100.html"
+    },
+    {
+      "brand": "Lupo",
+      "price": "R$ 114,90",
+      "infos": "100% Poliamida",
+      "link": "https://www.lupo.com.br/camiseta-lupo-am-basica-ii-77053-002/p?skuId=37021"
+    },
+    {
+      "brand": "Saint Studio",
+      "price": "R$ 239,00",
+      "infos": "100% algodão",
+      "link": "https://www.saintstudio.com.br/produto/camiseta-supima-branca-927"
+    },
+    {
+      "brand": "Amaro",
+      "price": "R$ 159,90",
+      "infos": "algodão prima",
+      "link": "https://amaro.com/br/pt/c/moda-feminina/roupas/camisetas/50500791_0004/t-shirt-slim-de-algodao-pima-gola-redonda-lisa/branco"
+    },
+    {
+      "brand": "Singapura",
+      "price": "R$ 179,00",
+      "infos": "100% algodão",
+      "link": "https://singapurastore.com/collections/camisetas/products/t-shirt-classica-crua"
+    },
+    {
+      "brand": "BUS142",
+      "infos": "só com desenho"
+    },
+    {
+      "brand": "Track & Field",
+      "price": "R$ 249,90",
+      "infos": "92% algodão Pima Peruano + 8% elastano",
+      "link": "https://www.tf.com.br/camiseta-masculina-stretch-pima-branca/p"
+    },
+    {
+      "brand": "Brooksfield",
+      "price": "R$ 299,00",
+      "infos": "n fala se é algodao",
+      "link": "https://www.brooksfield.com.br/camiseta-manga-curta-algodao-penteado-tcregca21021-p2352?v=2354"
+    },
+    {
+      "brand": "Baw",
+      "price": "R$ 129,00",
+      "infos": "100% algodão",
+      "link": "https://www.bawclothing.com.br/camiseta-mc-regular-color-refletive-branco-0082628014/p"
+    },
+    {
+      "brand": "Haus",
+      "price": "R$ 74,99",
+      "infos": "91% poliamida e 9% elastano",
+      "link": "https://www.hausport.com.br/produto/camisa-esportiva-adulto-nativo-170"
+    },
+    {
+      "brand": "Avanzzo",
+      "infos": "n tem camiseta"
+    },
+    {
+      "brand": "Misci",
+      "price": "R$ 370,00",
+      "infos": "100% algodão (logo grande nas costas)",
+      "link": "https://www.misci.com/produto/camiseta-logo-costas-off-back-logo-t-shirt-off-782"
+    },
+    {
+      "brand": "Foxton",
+      "price": "R$ 160,80",
+      "infos": "malha de algodão",
+      "link": "https://foxtonbrasil.com.br/camiseta-over-foxton-design-branco-7-07685-0001/p"
+    },
+    {
+      "brand": "Zegna",
+      "price": "R$ 1.964,59",
+      "infos": "100% algodão",
+      "link": "https://www.zegna.com/pt-pt/pret-a-porter/t-shirts/product.t-shirt-em-algod%C3%A3o-usetheexisting-branco.22383351/"
+    },
+    {
+      "brand": "Golden Goose",
+      "price": "R$ 1.000,00",
+      "infos": "100% algodão",
+      "link": "https://www.goldengoose.com/br/pt/camiseta-masculina-branca-com-tratamento-desgastado-cod-GMP01220.P000638.10363.html"
+    },
+    {
+      "brand": "Guardaroba",
+      "price": "R$ 119,00",
+      "infos": "98% Algodão 2% Elastano (regata)",
+      "link": "https://www.guardaroba.com.br/nova-colecao-verao/regata-basica-verao?variant_id=4855"
+    },
+    {
+      "brand": "Morena Rosa",
+      "price": "R$ 169,90",
+      "infos": "100% algodão",
+      "link": "https://www.morenarosa.com.br/t-shirt-morena-rosa-gola-redonda-manga-dobrada-off-white-312398/p"
+    },
+    {
+      "brand": "Pipe Content House",
+      "price": "R$ 189,90",
+      "infos": "100% algodão",
+      "link": "https://www.pipecontenthouse.com.br/camiseta-pima-white-pr-12867-cp223024-p7652?pp=/147.1478/"
+    },
+    {
+      "brand": "NV",
+      "price": "R$ 198,00",
+      "infos": "100% viscose",
+      "link": "https://www.bynv.com.br/t-shirt-eloah-off-white-v222456-nv080/p"
+    },
+    {
+      "brand": "Tailor's Mind",
+      "price": "R$ 199,20",
+      "infos": "100% algodão",
+      "link": "https://tailorsmind.com.br/collections/camisetas/products/camiseta-pima-2-0?_pos=3&_fid=f57657c1f&_ss=c&variant=43952726540605"
+    },
+    {
+      "brand": "Camys",
+      "price": "R$ 207,60",
+      "infos": "100% algodão",
+      "link": "https://www.camys.com.br/produto/camiseta-em-algodao-camys-new-easy-pads-gola-u-branca-70838"
+    },
+    {
+      "brand": "Original Penguin",
+      "price": "R$ 255,00",
+      "infos": "100% algodão",
+      "link": "https://www.originalpenguin.com.br/camiseta-patch-original-penguin-branca-opkb2001118/p?idsku=1795&gclid=Cj0KCQjwtJKqBhCaARIsAN_yS_mqYRo0O7yo02PbumRy4CjlXB8XoIJEmiDd5uG1NTGzBZa3NGRs-r8aAhqaEALw_wcB"
+    },
+    {
+      "brand": "Mixed",
+      "price": "R$ 547,00",
+      "infos": "100% malha algodão",
+      "link": "https://loja.mixed.com.br/camiseta-holly-v24-05-32-0050137.html"
+    },
+    {
+      "brand": "Zen Oficial",
+      "price": "R$ 689,00",
+      "infos": "88% VISCOSE 12% POLIÉSTER (é um corte diferente, então ultima opção",
+      "link": "https://www.zenoficial.com.br/blusa-manga-curta-com-drapeado-na-barra-3651/p?skuId=13274"
+    },
+    {
+      "brand": "Cris Barros",
+      "price": "R$ 1.082,00",
+      "infos": "60% Viscose 40% Linho (um top, mas igual camisa)",
+      "link": "https://www.crisbarros.com.br/top-julia-tofu-36tp144ja-00540/p"
+    },
+    {
+      "brand": "Minimadeia",
+      "price": "R$ 129,00",
+      "infos": "100% algodão",
+      "link": "https://minimadeia.com/products/t-shirt-oversized-branco?_pos=4&_fid=51b79f535&_ss=c"
+    },
+    {
+      "brand": "Missoni",
+      "price": "R$ 982,96",
+      "infos": "100% algodão",
+      "link": "https://www.missoni.com/en-jp/crew-neck-cotton-t-shirt-with-embroidery-and-logo-brilliant-white-US23WL0KBJ00IE14001.html"
+    },
+    {
+      "brand": "H&M",
+      "price": "R$ 34,24",
+      "infos": "100% algodão *lembrando que alguns estou convertendo",
+      "link": "https://www2.hm.com/en_us/productpage.0685816001.html"
+    },
+    {
+      "brand": "Columbia",
+      "price": "R$ 169,00",
+      "infos": "100% algodão",
+      "link": "https://www.columbiasportswear.com.br/camiseta-columbia-masculina-basic-branco-320373---100/p"
+    },
+    {
+      "brand": "Nautica",
+      "price": "R$ 63,84",
+      "infos": "100% algodão",
+      "link": "https://www.nautica.com/solid-crewneck-t-shirt/VR8100.html?dwvar_VR8100_color=101&cgid=mens-t-shirts"
+    },
+    {
+      "brand": "Fred Perry",
+      "price": "R$ 263,84",
+      "infos": "100% algodão",
+      "link": "https://www.fredperry.com/eu-pt/homem/t-shirts/t-shirt-bordada-m4580-100.html"
+    },
+    {
+      "brand": "Dockers",
+      "price": "R$ 98,25",
+      "infos": "100% algodão",
+      "link": "https://us.dockers.com/collections/mens-tees/products/graphic-tee-slim-fit-a11030167?objectId=43153745969313&activeIndex=shopify_products&queryId=b1b7cb18bc97feb46f84de89782b09ba"
+    },
+    {
+      "brand": "Allglory",
+      "price": "R$ 165,00",
+      "infos": "100% algodão",
+      "link": "https://www.allglory.com.br/collections/camisetas/products/vintage-blank-destroyed-off-white"
+    },
+    {
+      "brand": "Givenchy",
+      "price": "R$ 4.300,00",
+      "infos": "100% algodão",
+      "link": "https://www.givenchy.com/int/en/givenchy-archetype-slim-fit-t-shirt-in-cotton/BM716G3YAC-100.html"
+    }
+  ]
