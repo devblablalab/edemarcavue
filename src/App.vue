@@ -1,9 +1,10 @@
 <template>
-  <HeaderBrand></HeaderBrand>
-  <div class="col">
-     <ProjectBrand></ProjectBrand>
-  <ShirtGif></ShirtGif>
-    
+  <div class="p-content">
+    <HeaderBrand></HeaderBrand>
+    <div class="col">
+       <ProjectBrand></ProjectBrand>
+       <ShirtGif></ShirtGif>
+    </div>
   </div>
  <BrandItem></BrandItem>
 </template>
@@ -12,10 +13,7 @@
 import HeaderBrand from './components/HeaderBrand.vue';
 import ProjectBrand from './components/ProjectBrand.vue';
 import ShirtGif from './components/ShirtGif.vue';
-import BrandItem from './components/BrandItem.vue';
-
-
-
+import BrandItem from './components/Brand/BrandItem.vue';
 
 export default {
     name: "App",
@@ -30,12 +28,19 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #7C7C7C;
-  margin-top: 60px;
 }
 
 .col {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.p-content {
+  padding: 1.4em;
+}
+
+.fw-bold {
+  font-weight: bold;
 }
 </style>

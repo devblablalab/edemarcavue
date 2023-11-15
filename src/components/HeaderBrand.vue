@@ -17,6 +17,11 @@ export default {
 header {
     display: flex;
     justify-content: space-between;
+    padding-bottom: 1.4em;
+}
+
+header p:first-child {
+    text-align: left;
 }
 
 
