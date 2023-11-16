@@ -33,6 +33,4 @@ header .header-item:hover {
 header p:first-child {
     text-align: left;
 }
-
-
 </style>
